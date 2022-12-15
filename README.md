@@ -11,11 +11,11 @@
 
 M.S. in Industrial Engineering at Seoul National University
 
-B.S. in Businsess Administration at Yonsei University
+B.S. in Business Administration at Yonsei University
 
 ### Career
 
-Blockchain Engineer at Humanscape
+Blockchain engineer at Humanscape
 
 Maintainer of [Hippocrat](https://github.com/hippocrat-dao)
 
